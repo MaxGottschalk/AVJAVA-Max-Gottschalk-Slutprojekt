@@ -1,0 +1,168 @@
+Worker Amount Added: 1
+Worker Interval: 3
+Warning! Production Low! 1.0%
+Warning! Production Low! 0.0%
+Worker Amount Added: 2
+Worker Interval: 5
+Worker Amount Added: 3
+Worker Interval: 6
+Worker Amount Added: 4
+Worker Interval: 6
+Worker Amount Added: 5
+Worker Interval: 6
+Worker Amount Added: 6
+Worker Interval: 4
+Worker Amount Added: 7
+Worker Interval: 1
+Worker Amount Added: 8
+Worker Interval: 8
+Worker Amount Added: 9
+Worker Interval: 9
+Worker Amount Added: 10
+Worker Interval: 3
+Worker Amount Added: 11
+Worker Interval: 5
+Worker Amount Added: 12
+Worker Interval: 4
+Worker Amount Added: 13
+Worker Interval: 5
+Worker Amount Added: 14
+Worker Interval: 9
+Worker Amount Added: 15
+Worker Interval: 8
+Worker Amount Added: 16
+Worker Interval: 5
+Worker Amount Added: 17
+Worker Interval: 2
+Worker Amount Added: 18
+Worker Interval: 9
+Warning! Production Low! 1.0%
+Warning! Production Low! 0.0%
+Warning! Production Low! 1.0%
+Warning! Production Low! 0.0%
+Warning! Production Low! 1.0%
+Warning! Production Low! 0.0%
+Warning! Production Low! 1.0%
+Warning! Production Low! 0.0%
+Warning! Production Low! 1.0%
+Warning! Production Low! 0.0%
+Warning! Production Low! 1.0%
+Warning! Production Low! 0.0%
+Warning! Production Low! 1.0%
+Warning! Production Low! 2.0%
+Warning! Production Low! 3.0%
+Warning! Production Low! 2.0%
+Warning! Production Low! 3.0%
+Warning! Production Low! 2.0%
+Warning! Production Low! 3.0%
+Warning! Production Low! 4.0%
+Warning! Production Low! 5.0%
+Warning! Production Low! 6.0%
+Warning! Production Low! 7.000000000000001%
+Warning! Production Low! 8.0%
+Warning! Production Low! 7.000000000000001%
+Warning! Production Low! 8.0%
+Warning! Production Low! 9.0%
+Warning! Production Low! 8.0%
+Warning! Production Low! 9.0%
+Warning! Production Low! 9.0%
+Production: 91.0%
+Production: 91.0%
+Production: 91.0%
+Production: 92.0%
+Production: 93.0%
+Production: 94.0%
+Production: 93.0%
+Production: 94.0%
+Production: 95.0%
+Production: 96.0%
+Production: 97.0%
+Production: 98.0%
+Production: 97.0%
+Production: 98.0%
+Production: 99.0%
+Production: 100.0%
+Production: 99.0%
+Production: 98.0%
+Production: 99.0%
+Production: 100.0%
+Production: 99.0%
+Production: 100.0%
+Production: 99.0%
+Production: 100.0%
+Production: 99.0%
+Production: 100.0%
+Production: 99.0%
+Production: 98.0%
+Production: 100.0%
+Production: 99.0%
+Production: 100.0%
+Production: 99.0%
+Production: 100.0%
+Production: 99.0%
+Production: 98.0%
+Production: 100.0%
+Production: 99.0%
+Production: 100.0%
+Production: 99.0%
+Production: 100.0%
+Production: 99.0%
+Production: 100.0%
+Worker Amount reduced to: 17
+Worker Amount reduced to: 16
+Production: 99.0%
+Worker Amount reduced to: 15
+Worker Amount reduced to: 14
+Production: 100.0%
+Worker Amount reduced to: 13
+Worker Amount reduced to: 12
+Production: 99.0%
+Worker Amount reduced to: 11
+Production: 98.0%
+Worker Amount reduced to: 10
+Worker Amount reduced to: 9
+Production: 97.0%
+Worker Amount reduced to: 8
+Production: 100.0%
+Worker Amount reduced to: 7
+Worker Amount reduced to: 6
+Worker Amount reduced to: 5
+Worker Amount reduced to: 4
+Worker Amount reduced to: 3
+Production: 99.0%
+Worker Amount reduced to: 2
+Worker Amount reduced to: 1
+Production: 100.0%
+Production: 99.0%
+Production: 98.0%
+Production: 97.0%
+Production: 96.0%
+Production: 95.0%
+Production: 100.0%
+Production: 99.0%
+Production: 98.0%
+Production: 97.0%
+Production: 96.0%
+Production: 95.0%
+Production: 94.0%
+Production: 93.0%
+Production: 100.0%
+Production: 99.0%
+Production: 98.0%
+Production: 97.0%
+Production: 96.0%
+Production: 95.0%
+Production: 100.0%
+Production: 99.0%
+Production: 98.0%
+Production: 97.0%
+Production: 96.0%
+Production: 95.0%
+Production: 94.0%
+Production: 96.0%
+Production: 95.0%
+Production: 94.0%
+Production: 93.0%
+Production: 92.0%
+Production: 91.0%
+Production: 91.0%
